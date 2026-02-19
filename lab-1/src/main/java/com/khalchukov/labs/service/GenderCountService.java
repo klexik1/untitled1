@@ -1,7 +1,7 @@
-package com.karandashov.labs.service;
+package com.khalchukov.labs.service;
 
-import com.karandashov.labs.model.Character;
-import com.karandashov.labs.model.Gender;
+import com.khalchukov.labs.model.Character;
+import com.khalchukov.labs.model.Gender;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;

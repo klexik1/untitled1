@@ -1,8 +1,8 @@
-package com.karandashov.labs.service;
+package com.khalchukov.labs.service;
 
-import com.karandashov.labs.model.Character;
-import com.karandashov.labs.model.Gender;
-import com.karandashov.labs.util.CsvParser;
+import com.khalchukov.labs.model.Character;
+import com.khalchukov.labs.model.Gender;
+import com.khalchukov.labs.util.CsvParser;
 
 import java.io.IOException;
 import java.nio.file.Path;

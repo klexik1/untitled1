@@ -1,9 +1,9 @@
-package com.karandashov.labs;
+package com.khalchukov.labs;
 
-import com.karandashov.labs.model.Character;
-import com.karandashov.labs.model.Gender;
-import com.karandashov.labs.service.CharacterCrudService;
-import com.karandashov.labs.service.GenderCountService;
+import com.khalchukov.labs.model.Character;
+import com.khalchukov.labs.model.Gender;
+import com.khalchukov.labs.service.CharacterCrudService;
+import com.khalchukov.labs.service.GenderCountService;
 
 
 import java.io.IOException;

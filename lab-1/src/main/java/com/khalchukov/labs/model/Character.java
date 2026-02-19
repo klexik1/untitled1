@@ -1,4 +1,4 @@
-package com.karandashov.labs.model;
+package com.khalchukov.labs.model;
 
 /**
  * Модель персонажа из Rick and Morty.
