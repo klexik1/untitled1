@@ -10,6 +10,9 @@
 
     <!--  Это корневой pom, поэтому при сборке не нужно паковать jar - указываем "pom"  -->
     <packaging>pom</packaging>
+    <modules>
+        <module>lab-1</module>
+    </modules>
 
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
